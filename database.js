@@ -19,4 +19,11 @@ WHERE sid=X.sid)
 
 
 
-//3rd
+
+//question no 2 for single query
+SELECT brand_name,user_name,email, point_value 
+FROM transaction a
+WHERE 1 < 
+    (SELECT COUNT(*) 
+     FROM user 
+     WHERE brand_id=a.brand_id);
