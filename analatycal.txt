@@ -1,0 +1,32 @@
+hello globalbees, i want to thank you for giving me this opputunity, your assigment was challenging yet interesting,
+thank you.
+
+
+answere1 1
+the box will be 1/8 on 21st of december as it is 100% on 24 december
+
+
+answere 2
+there will be total of 31 matches,
+first there will be 16 matches of 32 people where 16 will be taken out,
+then same way 8 matches, then 4 matches then 2 and then 1 to eliminate half of the people
+so 16+8+4+2+1=31 match and we will have a winner in last
+
+
+answere3
+instead of going 4-4 group of balls, i would group them in 2,3,3 group of 3 sets
+
+so i will make sure the minimum way to find the defective ball is 2 steps of measurements
+
+first what we have to measure 3-3 group of balls
+1-if they are ballance we can go to set of 2 balls and measure them and find the defected ball
+2-if they are not balance, we will measure any 2 ball from the group of ball which was heavy. if they are balance then the other ball is heavy. if not we stil have the heavy ball
+
+
+
+answere4
+the answere is 14
+
+
+answere5
+B will be 10 year old as c will be 5 year old by basic maths
